@@ -23,9 +23,11 @@ The supplementary materials include:
 - The post-experiment questionnaires on robot perception, CH33 and GSQ: pHRI_experiment_CH33.pdf, pHRI_experiment_GSQ.pdf
 
 Contact:
+```
 Yue Hu
 CNRS-AIST JRL (Joint Robotics Laboratory), IRL, 
 National Institute of Advanced Industrial Science and Technology (AIST), 
 Tsukuba, Ibaraki, Japan
 hu.yue <at> aist.go.jp
 yuehu <at> ieee.org
+```
